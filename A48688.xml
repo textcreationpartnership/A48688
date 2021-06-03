@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the several persons in civil offices under the late King in Ireland</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48688</idno><idno type="EEBO-CITATION">12392992</idno>
+  <idno type="VID">61044</idno>
+  <idno type="EEBO-PROQUEST">2240961130</idno>
+  
+            <idno type="STC">Wing L2504B</idno>
+            <idno type="STC">ESTC R15678</idno>
+            <idno type="OCLC">12392992</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the several persons in civil offices under the late King in Ireland</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Amery ..., and sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>"A list of the present Irish sheriffs" and "A letter from Chester, March the first, 1689" on p. [2].</note>
+                  <note>Advertisement: p. [2].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  Officials and employees --  Registers.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:61044:1"/>
+            <head>A LIST of the several Persons in Civil Offices under the late King in <hi>Ireland.</hi>
+            </head>
+            <list>
+               <head>Lords of the Treasury.</head>
+               <item>Duke of <hi>Tyrconnel.</hi>
+               </item>
+               <item>Earl of <hi>Dover.</hi>
+               </item>
+               <item>L. Ch. Justice <hi>Nugent</hi> Barron of <hi>Riverston.</hi>
+               </item>
+               <item>L. Ch. Barron <hi>Rise.</hi>
+               </item>
+               <item>
+                  <hi>Bruno Talbot.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Secretary</head>
+               <item>Mr. <hi>Colelogh.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Deputy</head>
+               <item>Mr. <hi>Thomas Bourk.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Commissions of the Revenue.</head>
+               <item>Sir <hi>Patrick Trant.</hi>
+               </item>
+               <item>Sir <hi>William Ellis.</hi>
+               </item>
+               <item>
+                  <hi>John Trinder.</hi>
+               </item>
+               <item>Mr. <hi>Collins.</hi>
+               </item>
+               <item>Mr. <hi>Plowden.</hi>
+               </item>
+               <item>
+                  <hi>Theo. Butler,</hi> Solicitor General.</item>
+               <item>
+                  <hi>Charles Playdell,</hi> Secretary about the old Revenue.</item>
+               <item>
+                  <hi>Rob. Longfield</hi> manages all matters about Absenters Goods, &amp; Estates, &amp; all that People are Robbed of.</item>
+            </list>
+            <list>
+               <head>Chancery Officers.</head>
+               <item>Sir <hi>Alex. Fytton,</hi> Baron of <hi>Gosworth,</hi> Chancellour.</item>
+               <item>Sir <hi>William Talbot,</hi> Master of the Rolls.</item>
+               <item>
+                  <hi>Dennis Fits Gerald,</hi> C. of the Rolls, knows not how to Execute.</item>
+               <item>Mast. of Chancery.
+<list>
+                     <item>
+                        <hi>Alexius Stafford,</hi> Dean of <hi>Christ-Church.</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Plunket,</hi> a Priest. </item>
+                     <item>pretended Civilians.
+<list>
+                           <item>
+                              <hi>John Berford.</hi>
+                           </item>
+                           <item>
+                              <hi>John Kennedy.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Exam. <hi>Coyle</hi> forg'd a bond, as Mr. <hi>T. Coote</hi> can tell. The place is in trust for some Woman. <hi>Staffors</hi> Servant. Clerks of Chan<g ref="char:EOLhyphen"/>cery.
+<list>
+                     <item>
+                        <hi>H. Temple,</hi> Esq;</item>
+                     <item>
+                        <hi>Owen Coyle.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Clerks of Chan<g ref="char:EOLhyphen"/>cery.
+<list>
+                     <item>Papists.
+<list>
+                           <item>—<hi>Power. Staffors</hi> Servant.</item>
+                           <item>
+                              <hi>John Cairney.</hi>
+                           </item>
+                           <item>
+                              <hi>Thady Magher.</hi>
+                           </item>
+                           <item>
+                              <hi>Geoghegan.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>John Maynard,</hi> Protest. Serv. to Chanc.</item>
+                     <item>
+                        <hi>John Newell,</hi> a Protest. kept in because the others knew not how to do the business.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <item>Collonel <hi>William Dorrington,</hi> Register of the Chancery.</item>
+               <item>
+                  <hi>Tho. Arthur</hi> a Souldier, in Trust for <hi>Robert Arthur</hi>'s Wife.</item>
+               <item>
+                  <hi>Tyrconnel</hi>'s Neece, Clerk of the <hi>Hannap.</hi>
+               </item>
+            </list>
+            <list>
+               <head>King's Bench Officers.</head>
+               <item>The Lord Barron of <hi>Riverston,</hi> Lord Chief Justice.</item>
+               <item>Sir <hi>Bryan O Neile,</hi> second Justice.</item>
+               <item>
+                  <hi>Richard Vinack,</hi> in Election to succeed Judge <hi>Lyndon.</hi>
+               </item>
+               <item>Captain <hi>Randal Mac. Donnel,</hi> Clerk of the Crown and Pro<g ref="char:EOLhyphen"/>thon. of all the Offices.</item>
+               <item>All his Deputies.
+<list>
+                     <item>
+                        <hi>Francis Nugent,</hi> Prothon.</item>
+                     <item>
+                        <hi>Bryan Kearney,</hi> of the Crown.</item>
+                     <item>
+                        <hi>Derby Cormuck,</hi> of the Rules.</item>
+                     <item>
+                        <hi>John Kelly,</hi> of the Pleadings.</item>
+                     <item>
+                        <hi>Edm. Donnogher,</hi> of the Errors.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Common Pleas Officers.</head>
+               <item>
+                  <hi>John Keating,</hi> Esq; Lord Chief Justice.</item>
+               <item>Justices.
+<list>
+                     <item>
+                        <hi>Dennis O Daly,</hi> and</item>
+                     <item>
+                        <hi>Peter Martin.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Edmund Fitz-Gerald,</hi> Prothonotary.</item>
+               <item>
+                  <hi>Robert Barnwall, Custos Brev. &amp; Lliz.</hi>
+               </item>
+               <item>
+                  <hi>John Nagle,</hi> Cursitor and Clerk of Outlawries.</item>
+               <item>Captain <hi>Samuel Mulleneux</hi> keeps his, it being not worth taking.</item>
+            </list>
+            <list>
+               <head>Exchequer Officers.</head>
+               <item>
+                  <hi>Bruno Talbot,</hi> Chancellour.</item>
+               <item>No Treasurer but Sir <hi>Henry Bond.</hi>
+               </item>
+               <item>And <hi>Lew. Doe</hi> are Receivers, and all the Clerks <hi>French</hi> and Irish Papists.</item>
+               <item>Sir <hi>Stephen Rice,</hi> Lord Chief Baron.</item>
+               <item>Barons.
+<list>
+                     <item>Sir <hi>John Barnivall.</hi>
+                     </item>
+                     <item>Sir <hi>Henry Lynch.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Oliver Grace,</hi> chief Remembrancer.</item>
+               <item>Mr. <hi>Barry</hi> a Protestant, second Remembrancer, no one would pass the Grant because no Sallary.</item>
+            </list>
+            <list>
+               <head>More Exchequer Officers.</head>
+               <item>
+                  <hi>Walter</hi> L. <hi>Dungan,</hi> Prothon. <hi>Murtogh Griffin</hi> his Deputy.</item>
+               <item>
+                  <hi>Philip Dwyre,</hi> the Deputies Deputy, Officiates.</item>
+               <item>Cap. <hi>Fra. Stafford,</hi> Son to the L. <hi>Stafford,</hi> Clerk of the Pipe.</item>
+               <item>
+                  <hi>Richard Gavan</hi> Junior, a Pervert, his Deputy.</item>
+               <item>Captain <hi>R. Plunket</hi> of <hi>Mallahyde,</hi> Auditor General.</item>
+               <item>Captain <hi>Cha. White</hi> of <hi>Leixlipp,</hi> Clerk of the first Fruits.</item>
+               <item>Collonel <hi>Henry Dillon,</hi> Surveyour General.</item>
+            </list>
+            <list>
+               <head>Counties</head>
+               <item>Dublin</item>
+               <item>C. Dublin</item>
+               <item>Meath</item>
+               <item>W. Meath</item>
+               <item>Longford</item>
+               <item>Carlow</item>
+               <item>Kilkenny</item>
+               <item>Wexford</item>
+               <item>Wicklow</item>
+               <item>Kings County</item>
+               <item>Q eens County</item>
+               <item>Lowth</item>
+               <item>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dare</item>
+               <item>Cork Co. &amp; City</item>
+               <item>Waterford</item>
+               <item>Clare</item>
+               <item>Kerry</item>
+               <item>Lymerick</item>
+               <item>Tippary</item>
+               <item>Galway</item>
+               <item>Roscomo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Mayo</item>
+               <item>Sligo</item>
+               <item>Leytrim</item>
+               <item>Cavan</item>
+               <item>Monoghan</item>
+               <item>Tyrone</item>
+               <item>Ardmagh</item>
+               <item>Derry</item>
+               <item>Donneghal</item>
+               <item>Down</item>
+               <item>Antrim</item>
+               <item>Fermanagh</item>
+            </list>
+            <p>
+               <table>
+                  <head>Ld. Lieft. and Deputy Lieft. of <hi>Ireland.</hi>
+                  </head>
+                  <row>
+                     <cell role="label">Ld. Lieft. and Deputy Lieft. of <hi>Ireland.</hi>
+                     </cell>
+                     <cell role="label">Ld. Lieft. of <hi>Lemster.</hi> Deputy Lieftenants.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Symon Lutterel</cell>
+                     <cell>
+                        <list>
+                           <item>Tho. Warren</item>
+                           <item>Bartho. Russel</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ld. May.</hi> Ter. Dormor</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Sir</hi> Thomas Hacket</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Gormonstown</cell>
+                     <cell>
+                        <list>
+                           <item>Thomas Bellew</item>
+                           <item>Walter Nangle</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Earl of</hi> West-Meath</cell>
+                     <cell>
+                        <list>
+                           <item>Ed. Nugent <hi>of</hi> Carlingstown</item>
+                           <item>Ja. Nugent <hi>of</hi> Walshtown</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> William Nugent.</cell>
+                     <cell>
+                        <list>
+                           <item>Fergus Farrel</item>
+                           <item>Lawrence Nugent.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dudly Bagnal</cell>
+                     <cell>
+                        <list>
+                           <item>Marks Baggot</item>
+                           <item>William Cook</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Galmoy</cell>
+                     <cell>
+                        <list>
+                           <item>John Grace, <hi>and</hi>
+                           </item>
+                           <item>Cezar Colelogh</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Walter Butler</cell>
+                     <cell>
+                        <list>
+                           <item>Pat. Colclough, Walt. Tal<g ref="char:EOLhyphen"/>bot, Edm. Masterson</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ja. Talbot <hi>of</hi> Belgard</cell>
+                     <cell>
+                        <list>
+                           <item>Hugh Roe Burn, <hi>and</hi>
+                           </item>
+                           <item>Thady Burn</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Garret Moore</cell>
+                     <cell>
+                        <list>
+                           <item>Thomas Coglan, <hi>and</hi>
+                           </item>
+                           <item>Owen Carrol</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Clanmylera</cell>
+                     <cell>
+                        <list>
+                           <item>Edmond Morris, <hi>and</hi>
+                           </item>
+                           <item>The. Fitz-Patrick.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Lowth</cell>
+                     <cell>
+                        <list>
+                           <item>Roger Bellew, <hi>and</hi>
+                           </item>
+                           <item>John Babe</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>E. <hi>of</hi> Lymerick.</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Sir</hi> Cha. Whyllin</item>
+                           <item>Fra. Leigh, <hi>and</hi> Will. Fitz-Gerald <hi>of</hi> Crockeshin</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Munster.</head>
+                  <row>
+                     <cell>
+                        <hi>Ld.</hi> M. Cashel</cell>
+                     <cell>
+                        <list>
+                           <item>Peirce Nangle</item>
+                           <item>Dan. Mac Carty Reagh</item>
+                           <item>O Sullevan Bere</item>
+                           <item>C.M. Carty. <hi>alias</hi> M. Donogh</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Earl <hi>of</hi> Tyrone</cell>
+                     <cell>
+                        <list>
+                           <item>John Nugent, <hi>and</hi>
+                           </item>
+                           <item>Thomas Shirlock</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Clare</cell>
+                     <cell>
+                        <list>
+                           <item>Don O Bryan <hi>of</hi> Donogh</item>
+                           <item>Flor Mac Nemarra</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Ld. Visc.</hi> Kilmore</item>
+                           <item>
+                              <hi>Sir</hi> Val. Browne</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Donegh Mac Ihaudy</item>
+                           <item>Joseph Brown</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ld.</hi> Brittas</cell>
+                     <cell>
+                        <list>
+                           <item>Morris Fitz-Gerrald</item>
+                           <item>Dom. Roch.</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Walter Butler</cell>
+                     <cell>
+                        <list>
+                           <item>Ja. Butler <hi>of</hi> Killy-shane</item>
+                           <item>Gar. Gough</item>
+                           <item>Ja. Cantwall</item>
+                           <item>Donogh Mac Carty</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Conought.</head>
+                  <row>
+                     <cell>
+                        <hi>Earl of</hi> Clanisckard</cell>
+                     <cell>
+                        <list>
+                           <item>John Donnelan</item>
+                           <item>Miles Bourk</item>
+                           <item>Nicholas French</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Dillon</cell>
+                     <cell>
+                        <list>
+                           <item>Pat. Plunket</item>
+                           <item>John Fallen</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Athenree</cell>
+                     <cell>
+                        <list>
+                           <item>John Brown</item>
+                           <item>John Fere</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Henry Dillon</cell>
+                     <cell>
+                        <list>
+                           <item>Edward Crofton</item>
+                           <item>Ja. French</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Alex. Mac Donnel</cell>
+                     <cell>
+                        <list>
+                           <item>Hen. Mac Toole O Neal</item>
+                           <item>Hugh O Bourk</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Ulster.</head>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Edm. O Riley</cell>
+                     <cell>
+                        <list>
+                           <item>Philip Oge O Rely</item>
+                           <item>
+                              <hi>Col.</hi> Bryen Mac Mahon</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Art. Oge Mac Mahon</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Capt.</hi> Hugh Mac Mahon</item>
+                           <item>
+                              <hi>Col.</hi> Bryen Mac Mahon</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Jo. O Neile</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>p.</hi> Terence Donelly</item>
+                           <item>Shane O Donely</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> Neile O Neile</cell>
+                     <cell>
+                        <list>
+                           <item>Walt. Hovendon</item>
+                           <item>Con. O Neile</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> Cormuck O Neile</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Cap.</hi> Roger O Cahan</item>
+                           <item>
+                              <hi>Cap.</hi> Fra. O Cahan</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Col.</hi> O Donnel</cell>
+                     <cell>
+                        <list>
+                           <item>Manus O Donnel</item>
+                           <item>Trilogh Oge O Boyle</item>
+                           <item>Dan. O Donnel</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Iveagh</cell>
+                     <cell>
+                        <list>
+                           <item>Shylling Magennis</item>
+                           <item>Art. Magennis</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Earl of</hi> Antrim</cell>
+                     <cell>
+                        <list>
+                           <item>Shane O Neile <hi>Sheriff</hi>
+                           </item>
+                           <item>
+                              <hi>Coll.</hi> Thady O Heira</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lord</hi> Inniskilling</cell>
+                     <cell>
+                        <list>
+                           <item>Conought Mac Guyze</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:61044:1"/>
+            <head>A LIST of the present Irish SHERIFFS.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Counties.</cell>
+                     <cell role="label">Sheriffs.</cell>
+                  </row>
+                  <row>
+                     <cell>Kildare</cell>
+                     <cell>Edward Shirlock</cell>
+                  </row>
+                  <row>
+                     <cell>Kilkenny</cell>
+                     <cell>Maurice Shee</cell>
+                  </row>
+                  <row>
+                     <cell>Meath</cell>
+                     <cell>Hen. Dowdall</cell>
+                  </row>
+                  <row>
+                     <cell>Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>klow</cell>
+                     <cell>Ambrose Wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l</cell>
+                  </row>
+                  <row>
+                     <cell>Queens Co.</cell>
+                     <cell>
+                        <hi>Sor</hi> Gregory Byrne</cell>
+                  </row>
+                  <row>
+                     <cell>Catherlagh</cell>
+                     <cell>Pat. Wall</cell>
+                  </row>
+                  <row>
+                     <cell>Clare</cell>
+                     <cell>
+                        <hi>Sir</hi> Don O Bryen</cell>
+                  </row>
+                  <row>
+                     <cell>Longford</cell>
+                     <cell>John Nugent</cell>
+                  </row>
+                  <row>
+                     <cell>Dublin</cell>
+                     <cell>Tho. Warren</cell>
+                  </row>
+                  <row>
+                     <cell>Kings Co.</cell>
+                     <cell>Jerem. Coghlan</cell>
+                  </row>
+                  <row>
+                     <cell>Roscomon</cell>
+                     <cell>Jo. Conry</cell>
+                  </row>
+                  <row>
+                     <cell>Wexford</cell>
+                     <cell>Walter Talbot</cell>
+                  </row>
+                  <row>
+                     <cell>Galwey</cell>
+                     <cell>James Forster</cell>
+                  </row>
+                  <row>
+                     <cell>Mayo</cell>
+                     <cell>John Brown</cell>
+                  </row>
+                  <row>
+                     <cell>Kerry</cell>
+                     <cell>Peircie Rice</cell>
+                  </row>
+                  <row>
+                     <cell>Lymerick</cell>
+                     <cell>Man. Fitz-Gerald</cell>
+                  </row>
+                  <row>
+                     <cell>VVaterford</cell>
+                     <cell>John Hore</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Patents for the rest are not yet taken out. <hi>Chris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oph. Nugent</hi> the Council Judge Advocate.</p>
+         </div>
+         <div type="letter">
+            <head>A LETTER from <hi>CHESTER. March</hi> the first, 1689.</head>
+            <p>I am obliged for yours of the 27th. past. The Reported Action at <hi>Newry</hi> proves a Sham, however there has been something done by our Army that lye on those Fron<g ref="char:EOLhyphen"/>tiers, for Collonel <hi>Russel,</hi> and two other Collonels with a Detached Party, marched in three Divisions, with design of meeting about <hi>Dundalk</hi> to fire that Town, but finding the Enemy too powerful, their Intention took not Effect, yet they burnt the Lord <hi>Du<g ref="char:EOLhyphen"/>leek</hi>'s House near <hi>Dundalk,</hi> and took about thirty Prisoners there, after some Dispute. And on their return, they brought in about 1200 Head of black Cattle, besides a con<g ref="char:EOLhyphen"/>siderable Booty of Garranes, Sheep, Goats, <hi>&amp;c.</hi> The foregoing Brave Action by Col<g ref="char:EOLhyphen"/>lonel <hi>Wolseley</hi> at <hi>Cavan,</hi> I omitt, because 'twas wrote to <hi>London</hi> by divers hands from hence, as I have reason to believe which you had in <hi>London</hi> on <hi>Fryday</hi> last, being the Collonel's own Relation of that very brave Action at <hi>Cavan.</hi>
+            </p>
+            <p>The Passengers that are come hither from <hi>Ireland,</hi> since my last by <hi>Wednesdays</hi> Post, further informs us, that upon viewing the dead Bodies, they found in, and near the Place of the Engagement 395, whereof they say 72 were <hi>Irish</hi> Officers, and that the <hi>Irish</hi> had quitted the Fort of <hi>Cavan;</hi> that Collonel <hi>Wolseley</hi> had sent to his Grace the Duke of <hi>Schomberg,</hi> that he would please to send him some more Forces; That his Grace had assured the Collonel that he would quickly be with him in Person, That the Duke had sent in order to the immediate Reduicng of <hi>Charlamount</hi> a Mortar Piece, and three Cul<g ref="char:EOLhyphen"/>verins; and that the Common Discourse at the Duke's head Quarters was, that his Grace would march himself at the head of his Troops in order to the attacking of that Impor<g ref="char:EOLhyphen"/>tant Place immediately; That one of our Privateers had sunk three Gabbards going with Provisions to <hi>Dundalk.</hi> Abundance of shipping lies ready at <hi>Highlake,</hi> for the <hi>Irish</hi> Ex<g ref="char:EOLhyphen"/>pedition; the <hi>Danish</hi> Foot quartered in and about this City, are all ready to go on Board, none of them being above a days march from hence. Provisions, Arms, and all other War-like Instruments, in prodigious quantities, are put on Board and ready to sail for <hi>Highlake.</hi> I can add no more now, fearing the Post should be gone, but that I am always, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT,</head>
+            <p>A True and Impartial Account of the most material Passages in <hi>Ireland,</hi> since <hi>December</hi> 1688. With a Particular Relation of the Commanders and their Regiments in the City of <hi>LONDONDERRY:</hi> Being taken from the Notes of a Gentleman who was Eye-Witness to most of the Actions mentioned therein, during his residing there; who was desir'd to publish the same for the further satisfaction of this Nation. <hi>In</hi> 4to, Price 6 <hi>d.</hi> To which is added a Description and Map of <hi>LONDONDERRY,</hi> as he took it upon the Place.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licens'd and Entred according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Amery,</hi> at the <hi>Peacock,</hi> against St. <hi>Dunstan's</hi> Church, in <hi>Fleet-street,</hi> and sold by <hi>Randal Tay<g ref="char:EOLhyphen"/>lor,</hi> at <hi>Stationers Hall.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
